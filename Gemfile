@@ -20,7 +20,7 @@ gem "rails", "~> 5.2.3"
 gem "sass-rails"
 gem "sidekiq", ">= 4.2.0"
 gem "turbolinks", ">= 2.5.2"
-gem 'httparty', '~> 0.17.0'
+gem 'httparty', '~> 0.21.0'
 gem 'byebug', '~> 11.0', '>= 11.0.1'
 gem 'jbuilder', '~> 2.7'
 gem 'rename'
